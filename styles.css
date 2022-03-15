@@ -5,7 +5,5 @@ body {
     rgba(62,142,208,1) 50%,
     rgba(241,70,104,1) 100%
   );
-
-  min-width: 376px;
   min-height: 100vh;
 }
